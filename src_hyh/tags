@@ -1,0 +1,547 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ALARM_INT	include/rtc.h	11;"	d
+ALMDAY	include/rtc.h	24;"	d
+ALMHOUR	include/rtc.h	23;"	d
+ALMMIN	include/rtc.h	22;"	d
+ALMMON	include/rtc.h	25;"	d
+ALMSEC	include/rtc.h	21;"	d
+ALMYEAR	include/rtc.h	26;"	d
+ALPHA_DEC	include/key.h	16;"	d
+ALPHA_INC	include/key.h	15;"	d
+ALPHA_W0	include/key.h	14;"	d
+ALPHA_W1	include/key.h	17;"	d
+APP_BACK	include/common.h	33;"	d
+AS	Makefile	/^AS		:= $(CROSS_COMPILE)as$/;"	m
+BACK_COL	include/lcd.h	97;"	d
+BACK_COL1	include/lcd.h	98;"	d
+BACK_COL_2	include/lcd.h	99;"	d
+BACK_UI	isr.c	15;"	d	file:
+BCDDAY	include/rtc.h	31;"	d
+BCDDAYWEEK	include/rtc.h	30;"	d
+BCDHOUR	include/rtc.h	29;"	d
+BCDMIN	include/rtc.h	28;"	d
+BCDMON	include/rtc.h	32;"	d
+BCDSEC	include/rtc.h	27;"	d
+BCDYEAR	include/rtc.h	33;"	d
+BC_B	include/teris.h	41;"	d
+BC_G	include/teris.h	40;"	d
+BC_R	include/teris.h	39;"	d
+BIN	Makefile	/^BIN		:= $(TARGET).bin$/;"	m
+BPP888	lcd.c	14;"	d	file:
+CC	Makefile	/^CC		:= $(CROSS_COMPILE)gcc$/;"	m
+CFLAGS	Makefile	/^CFLAGS		:= -Wall -fno-builtin -Iinclude$/;"	m
+CLK_DIV_LCD	include/lcd.h	14;"	d
+CLK_SRC_LCD0	include/lcd.h	13;"	d
+CMD_T	include/command.h	6;"	d
+CMD_X	include/command.h	33;"	d
+CMD_Y	include/command.h	34;"	d
+COL_B	include/lcd.h	94;"	d
+COL_G	include/lcd.h	93;"	d
+COL_R	include/lcd.h	92;"	d
+CONFIG	include/image.h	8;"	d
+CONFIG	include/rotator.h	7;"	d
+CONTROL	include/image.h	9;"	d
+CONTROL	include/rotator.h	8;"	d
+CROSS_COMPILE	Makefile	/^CROSS_COMPILE	:= arm-linux-$/;"	m
+CURTICCNT	include/rtc.h	34;"	d
+DEF_ATTRIBUTE	include/command.h	5;"	d
+DEV_ADDR	include/iic.h	6;"	d
+DISPLAY	include/teris.h	60;"	d
+DSTBASEADDR0	include/image.h	17;"	d
+DSTBASEADDR0	include/rotator.h	16;"	d
+DSTBASEADDR1	include/image.h	18;"	d
+DSTBASEADDR1	include/rotator.h	17;"	d
+DSTBASEADDR2	include/image.h	19;"	d
+DSTBASEADDR2	include/rotator.h	18;"	d
+DSTIMGSIZE	include/image.h	20;"	d
+DSTIMGSIZE	include/rotator.h	19;"	d
+DST_IMAGE	include/lcd.h	52;"	d
+DST_XY	include/image.h	21;"	d
+DST_XY	include/rotator.h	20;"	d
+D_H	include/teris.h	27;"	d
+D_HC_Y	include/teris.h	31;"	d
+D_W	include/teris.h	29;"	d
+D_WC_X	include/teris.h	30;"	d
+END	include/backlight.h	12;"	d
+ENTER_APP	isr.c	17;"	d	file:
+ENTER_CMD	isr.c	16;"	d	file:
+EXT_INT41CON	include/tp.h	5;"	d
+EXT_INT41_FLTCON1	include/tp.h	8;"	d
+EXT_INT41_MASK	include/tp.h	6;"	d
+EXT_INT41_PEND	include/tp.h	7;"	d
+FC_B	include/teris.h	37;"	d
+FC_G	include/teris.h	36;"	d
+FC_R	include/teris.h	35;"	d
+FONT22_12	include/lcd.h	101;"	d
+FONTDATAMAX	include/font10_18.h	4;"	d
+FONTMAX	include/font12_22.h	4;"	d
+FONT_10_18_H_	include/font10_18.h	2;"	d
+FONT_COL	include/lcd.h	104;"	d
+FONT_COL	include/lcd.h	107;"	d
+FONT_RAW	include/lcd.h	103;"	d
+FONT_RAW	include/lcd.h	106;"	d
+FRAMBUFFER0	include/lcd.h	48;"	d
+FRAMBUFFER1	include/lcd.h	49;"	d
+FRAMBUFFER_ALPHA0	include/lcd.h	55;"	d
+FRAMBUFFER_ALPHA0	note/howtorun.c	6;"	d	file:
+FRAMBUFFER_ALPHA1	include/lcd.h	56;"	d
+FRAMBUFFER_ALPHA1	note/howtorun.c	7;"	d	file:
+FRAMBUFFER_PIC20	note/howtorun.c	9;"	d	file:
+FRAMBUFFER_PIC20DIS	include/lcd.h	62;"	d
+FRAMBUFFER_PIC20DST	include/lcd.h	61;"	d
+FRAMBUFFER_PIC20SRC	include/lcd.h	63;"	d
+FRAMBUFFER_PIC20SRC_270	include/lcd.h	65;"	d
+FRAMBUFFER_PIC20SRC_90	include/lcd.h	64;"	d
+FRAMBUFFER_ROTATOR	include/lcd.h	58;"	d
+FRAMBUFFER_ROTATOR	note/howtorun.c	8;"	d	file:
+FRAMBUFFER_ROTATOR_DEL	include/lcd.h	59;"	d
+FRAMBUFFER_UI	include/lcd.h	54;"	d
+FRAMBUFFER_UI	note/howtorun.c	5;"	d	file:
+GPA0CON	include/uart.h	6;"	d
+GPD0CON	include/buzzer.h	7;"	d
+GPD0CON	include/rtc.h	15;"	d
+GPD0DAT	include/buzzer.h	8;"	d
+GPD0DAT	include/rtc.h	16;"	d
+GPD1CON	include/iic.h	8;"	d
+GPF0CON	include/lcd.h	7;"	d
+GPF1CON	include/lcd.h	8;"	d
+GPF2CON	include/lcd.h	9;"	d
+GPF3CON	include/lcd.h	10;"	d
+GPM4CON	include/led.h	6;"	d
+GPM4DAT	include/led.h	7;"	d
+GPX1CON	include/backlight.h	5;"	d
+GPX1CON	include/tp.h	4;"	d
+GPX1DAT	include/backlight.h	4;"	d
+GPX3CON	include/key.h	6;"	d
+GPX3DAT	include/key.h	7;"	d
+H	include/teris.h	14;"	d
+HC	include/teris.h	16;"	d
+HELP_N	shell.c	14;"	d	file:
+I2CADD	include/iic.h	13;"	d
+I2CCON	include/iic.h	11;"	d
+I2CDS	include/iic.h	14;"	d
+I2CLC	include/iic.h	15;"	d
+I2CSTAT	include/iic.h	12;"	d
+ICCBASE	include/irq.h	6;"	d
+ICCEOIR_CPU0	include/irq.h	11;"	d
+ICCIAR_CPU0	include/irq.h	10;"	d
+ICCICR_CPU0	include/irq.h	8;"	d
+ICCPMR_CPU0	include/irq.h	9;"	d
+ICDBASE	include/irq.h	13;"	d
+ICDDCR	include/irq.h	15;"	d
+ICDIPR0_CPU0	include/irq.h	16;"	d
+ICDIPTR0_CPU0	include/irq.h	17;"	d
+ICDISER0_CPU0	include/irq.h	18;"	d
+ICDSGIR	include/irq.h	19;"	d
+IIC1_BASE	include/iic.h	10;"	d
+IMAGEBASE	include/image.h	6;"	d
+INTP	include/rtc.h	17;"	d
+IRQ_H_	include/irq.h	2;"	d
+IS_DOWN	include/key.h	12;"	d
+IS_GAME_OVER	include/teris.h	56;"	d
+IS_LEFT	include/key.h	9;"	d
+IS_RIGHT	include/key.h	10;"	d
+IS_UP	include/key.h	11;"	d
+KEY_CNT_D	include/teris.h	47;"	d
+KEY_CNT_L	include/teris.h	44;"	d
+KEY_CNT_R	include/teris.h	45;"	d
+KEY_CNT_U	include/teris.h	46;"	d
+LCDBASE	include/lcd.h	17;"	d
+LCDBLK_CFG	include/lcd.h	12;"	d
+LD	Makefile	/^LD		:= $(CROSS_COMPILE)ld$/;"	m
+LEVEL	include/rtc.h	13;"	d
+LEV_TP	include/tp.h	13;"	d
+M	include/teris.h	11;"	d
+MAX_WAIT	iic.c	31;"	d	file:
+MILLET_IMAGE_H	include/image.h	2;"	d
+MILLET_ISR_H_	include/isr.h	2;"	d
+MILLET_PWM_H	include/pwm.h	2;"	d
+MILLET_TP_H_	include/tp.h	2;"	d
+MILLET__IIC_H	include/iic.h	2;"	d
+MKCOL	include/lcd.h	86;"	d
+MKCOL	include/lcd.h	88;"	d
+MMU_H_	include/mmu.h	2;"	d
+N	include/teris.h	12;"	d
+NM	Makefile	/^NM		:= $(CROSS_COMPILE)nm$/;"	m
+NULL	include/common.h	31;"	d
+NUM	include/teris.h	55;"	d
+N_H	include/teris.h	19;"	d
+N_HC	include/teris.h	21;"	d
+N_HC_Y	include/teris.h	22;"	d
+N_H_1	include/teris.h	20;"	d
+N_W	include/teris.h	23;"	d
+N_WC	include/teris.h	24;"	d
+N_WC_Y	include/teris.h	25;"	d
+OBJCPOY	Makefile	/^OBJCPOY		:= $(CROSS_COMPILE)objcopy$/;"	m
+OBJDUMP	Makefile	/^OBJDUMP		:= $(CROSS_COMPILE)objdump$/;"	m
+OBJS	Makefile	/^OBJS		:= main.o $/;"	m
+PIC_DEC	include/key.h	21;"	d
+PIC_DIRECTION_CHANGE	include/key.h	19;"	d
+PIC_INC	include/key.h	20;"	d
+PIC_MENU	include/key.h	22;"	d
+PWM_BASE	include/pwm.h	8;"	d
+RAND_C_B	include/teris.h	51;"	d
+RAND_C_G	include/teris.h	50;"	d
+RAND_C_R	include/teris.h	49;"	d
+RATE_A	include/teris.h	54;"	d
+REQUEST	include/backlight.h	11;"	d
+ROTATOR_DEC	include/key.h	26;"	d
+ROTATOR_INC	include/key.h	25;"	d
+ROTATOR_MODE_CHANGE	include/key.h	24;"	d
+ROTATOR_PIC_MENU	include/key.h	27;"	d
+RTCALM	include/rtc.h	20;"	d
+RTCCON	include/rtc.h	18;"	d
+RTC_H_	include/rtc.h	2;"	d
+SET_TIME	shell.c	13;"	d	file:
+SHADOWCON	include/lcd.h	30;"	d
+SIZE	shell.c	12;"	d	file:
+SRCBASEADDR0	include/image.h	11;"	d
+SRCBASEADDR0	include/rotator.h	10;"	d
+SRCBASEADDR1	include/image.h	12;"	d
+SRCBASEADDR1	include/rotator.h	11;"	d
+SRCBASEADDR2	include/image.h	13;"	d
+SRCBASEADDR2	include/rotator.h	12;"	d
+SRCIMGSIZE	include/image.h	14;"	d
+SRCIMGSIZE	include/rotator.h	13;"	d
+SRCROTSIZE	include/image.h	16;"	d
+SRCROTSIZE	include/rotator.h	15;"	d
+SRC_XY	include/image.h	15;"	d
+SRC_XY	include/rotator.h	14;"	d
+START	include/backlight.h	10;"	d
+START_Y	include/teris.h	53;"	d
+STATUS	include/image.h	10;"	d
+STATUS	include/rotator.h	9;"	d
+ST_OBJS	Makefile	/^ST_OBJS		:= start.o$/;"	m
+SUN_12_22_H_	include/font12_22.h	2;"	d
+TARGET	Makefile	/^TARGET		:= arm$/;"	m
+TCFG0	include/pwm.h	10;"	d
+TCFG1	include/pwm.h	11;"	d
+TCMPB0	include/pwm.h	14;"	d
+TCMPB1	include/pwm.h	17;"	d
+TCMPB2	include/pwm.h	20;"	d
+TCMPB3	include/pwm.h	23;"	d
+TCNTB0	include/pwm.h	13;"	d
+TCNTB1	include/pwm.h	16;"	d
+TCNTB2	include/pwm.h	19;"	d
+TCNTB3	include/pwm.h	22;"	d
+TCNTB4	include/pwm.h	25;"	d
+TCNTO0	include/pwm.h	15;"	d
+TCNTO1	include/pwm.h	18;"	d
+TCNTO2	include/pwm.h	21;"	d
+TCNTO3	include/pwm.h	24;"	d
+TCNTO4	include/pwm.h	26;"	d
+TCON	include/pwm.h	12;"	d
+TICCNT	include/rtc.h	19;"	d
+TIC_INT	include/rtc.h	12;"	d
+TINT_CSTAT	include/pwm.h	27;"	d
+TOT	include/irq.h	21;"	d
+TP_IRQ	include/tp.h	12;"	d
+TTB	include/mmu.h	14;"	d
+UART_H_	include/uart.h	2;"	d
+UBRDIVn	include/uart.h	/^	u32 UBRDIVn; 	$/;"	m	struct:__anon2
+UCONn	include/uart.h	/^	u32 UCONn;$/;"	m	struct:__anon2
+UERSTATn	include/uart.h	/^	u32 UERSTATn;	$/;"	m	struct:__anon2
+UFCONn	include/uart.h	/^	u32 UFCONn; 		$/;"	m	struct:__anon2
+UFRACVALn	include/uart.h	/^	u32 UFRACVALn; 	$/;"	m	struct:__anon2
+UFSTATn	include/uart.h	/^	u32 UFSTATn;	$/;"	m	struct:__anon2
+UINTMn	include/uart.h	/^	u32 UINTMn; 		$/;"	m	struct:__anon2
+UINTPn	include/uart.h	/^	u32 UINTPn;		$/;"	m	struct:__anon2
+UINTSPn	include/uart.h	/^	u32 UINTSPn; 	$/;"	m	struct:__anon2
+ULCONn	include/uart.h	/^	u32 ULCONn; 		$/;"	m	struct:__anon2
+UMCONn	include/uart.h	/^	u32 UMCONn ;		$/;"	m	struct:__anon2
+UMSTATn	include/uart.h	/^	u32 UMSTATn;	$/;"	m	struct:__anon2
+URXHn	include/uart.h	/^	u32 URXHn;		$/;"	m	struct:__anon2
+UTRSTATn	include/uart.h	/^	u32 UTRSTATn; 	$/;"	m	struct:__anon2
+UTXHn	include/uart.h	/^	u32 UTXHn;		$/;"	m	struct:__anon2
+VECTOR_BASE_PA	include/mmu.h	13;"	d
+VECTOR_BASE_VA	include/mmu.h	12;"	d
+VIDCON0	include/lcd.h	19;"	d
+VIDCON1	include/lcd.h	20;"	d
+VIDCON2	include/lcd.h	21;"	d
+VIDCON3	include/lcd.h	22;"	d
+VIDOSD0A	include/lcd.h	33;"	d
+VIDOSD0B	include/lcd.h	34;"	d
+VIDOSD0C	include/lcd.h	35;"	d
+VIDOSD1A	include/lcd.h	37;"	d
+VIDOSD1B	include/lcd.h	38;"	d
+VIDOSD1C	include/lcd.h	39;"	d
+VIDOSD1D	include/lcd.h	40;"	d
+VIDTCON0	include/lcd.h	23;"	d
+VIDTCON1	include/lcd.h	24;"	d
+VIDTCON2	include/lcd.h	25;"	d
+VIDW00ADD0B0	include/lcd.h	42;"	d
+VIDW00ADD1B0	include/lcd.h	43;"	d
+VIDW01ADD0B0	include/lcd.h	45;"	d
+VIDW01ADD1B0	include/lcd.h	46;"	d
+W	include/teris.h	15;"	d
+WAIT_REC	uart.c	26;"	d	file:
+WAIT_ROTAT_END	include/rotator.h	23;"	d
+WAIT_TRM	uart.c	27;"	d	file:
+WC	include/teris.h	17;"	d
+WINCHMAP2	include/lcd.h	31;"	d
+WINCON0	include/lcd.h	27;"	d
+WINCON1	include/lcd.h	28;"	d
+WORD_COL	include/lcd.h	96;"	d
+X	include/teris.h	8;"	d
+Y	include/teris.h	9;"	d
+_ANSI_STDARG_H_	include/stdarg.h	6;"	d
+_BSD_VA_LIST	include/stdarg.h	41;"	d
+_STDARG_H	include/stdarg.h	5;"	d
+_VA_LIST	include/stdarg.h	37;"	d
+_VA_LIST	include/stdarg.h	53;"	d
+_VA_LIST	include/stdarg.h	85;"	d
+_VA_LIST_	include/stdarg.h	50;"	d
+_VA_LIST_	include/stdarg.h	82;"	d
+_VA_LIST_DEFINED	include/stdarg.h	88;"	d
+_VA_LIST_T_H	include/stdarg.h	91;"	d
+__BACKLIGHT_H	include/backlight.h	2;"	d
+__BUZZER_H__	include/buzzer.h	2;"	d
+__COMMAND_H__	include/command.h	2;"	d
+__COMMON_H__	include/common.h	2;"	d
+__GNUC_VA_LIST	include/stdarg.h	13;"	d
+__HYH_ALPHA_H_	include/alpha.h	2;"	d
+__HYH_PIC20_H_	include/pic20.h	2;"	d
+__HYH_PPT_H_	include/myppt.h	2;"	d
+__HYH_ROTATOR_H__	include/rotator.h	3;"	d
+__HYH_SD_TO_MEM_H	include/sd_to_mem.h	2;"	d
+__KEY_H__	include/key.h	2;"	d
+__LCD_H_	include/lcd.h	2;"	d
+__LED_H__	include/led.h	2;"	d
+__MY_TERIS_H__	include/teris.h	3;"	d
+__SCHDULE_H_	include/schdule.h	2;"	d
+__SHELL_H_	include/shell.h	3;"	d
+__SHELL_INFO_H_	include/shell_info.h	2;"	d
+__UI_H_	include/ui.h	3;"	d
+__VA_LIST	include/stdarg.h	58;"	d
+__gnuc_va_list	include/stdarg.h	/^typedef __builtin_va_list __gnuc_va_list;$/;"	t
+__need___va_list	include/stdarg.h	8;"	d
+__va_copy	include/stdarg.h	27;"	d
+__va_list__	include/stdarg.h	94;"	d
+_start	start.S	/^_start:$/;"	l
+angle	rotator.c	/^static int angle = 0;$/;"	v	file:
+bg	teris.c	/^static int bg[HC][WC]; \/\/os: 主操作区$/;"	v	file:
+board_init	teris.c	/^void board_init(void)$/;"	f
+buzzer_init	buzzer.c	/^void buzzer_init(void)$/;"	f
+buzzer_off	buzzer.c	/^void buzzer_off(void)$/;"	f
+buzzer_on	buzzer.c	/^void buzzer_on(void)$/;"	f
+check_full_bg	teris.c	/^void check_full_bg(void)$/;"	f
+clean_lcd	lcd.c	/^void clean_lcd(u32 col)$/;"	f
+clean_lcd_w1	lcd.c	/^void clean_lcd_w1(u32 col)$/;"	f
+clear_bg	teris.c	/^void clear_bg(void)$/;"	f
+clear_line	teris.c	/^void clear_line(int j)$/;"	f
+clr_bss	start.S	/^clr_bss:$/;"	l
+cmd_func	include/command.h	/^	void (*cmd_func)(void);$/;"	m	struct:__anon1
+cmd_t	include/command.h	/^}cmd_t;$/;"	t	typeref:struct:__anon1
+copy_code_to_mem	note/sd_to_mem.c	/^void copy_code_to_mem(void)$/;"	f
+copy_date2display	pic20.c	/^void copy_date2display(int x, int y, void *pic20_dis)$/;"	f
+copy_date2display_r90	pic20.c	/^void copy_date2display_r90(int x, int y, void *pic20_dis)$/;"	f
+crc8	include/backlight.h	8;"	d
+crc8_init	include/backlight.h	7;"	d
+crc8_tab	backlight.c	/^static const unsigned char crc8_tab[] = {$/;"	v	file:
+create_descriptor	include/mmu.h	6;"	d
+create_vector_add	mmu.c	/^void create_vector_add(u32 *ttb)$/;"	f
+cur_score	teris.c	/^static unsigned long cur_score = 0;$/;"	v	file:
+cur_shape	teris.c	/^static unsigned long cur_shape  = 0;$/;"	v	file:
+cur_tik	rtc_irq.c	/^int cur_tik = 0;$/;"	v
+debug	include/common.h	34;"	d
+debug_func	include/common.h	35;"	d
+debug_game_over	include/teris.h	59;"	d
+debug_printf	include/teris.h	58;"	d
+delay	common.c	/^void delay(u32 n)$/;"	f
+direct_x	pic20.c	/^int direct_x = 0;$/;"	v
+display_bg	teris.c	/^void display_bg(void)$/;"	f
+display_os1_2y_bg	teris.c	/^void display_os1_2y_bg(void)$/;"	f
+display_os1_bg	teris.c	/^void display_os1_bg(void)$/;"	f
+display_ppt	pic20.c	/^void display_ppt(int x,int y)$/;"	f
+display_ppt_r90	pic20.c	/^void display_ppt_r90(int x,int y)$/;"	f
+do_irq	irq.c	/^void do_irq(void)$/;"	f
+do_tic	rtc_irq.c	/^static void do_tic(void)$/;"	f	file:
+do_tp	isr.c	/^void do_tp(void)$/;"	f
+double_hit	isr.c	/^int double_hit = 0;$/;"	v
+draw_bg	teris.c	/^void draw_bg(void)$/;"	f
+draw_bg_arr	teris.c	/^static void draw_bg_arr(int j)$/;"	f	file:
+draw_bg_windmill	teris.c	/^void draw_bg_windmill(void)$/;"	f
+draw_both_sides	teris.c	/^void draw_both_sides(int postion_x, int flag)$/;"	f
+draw_element	teris.c	/^void draw_element(int x, int y, int r, int g, int b)$/;"	f
+draw_line	teris.c	/^void draw_line(int x0, int y0, int x1, int y1, int c) $/;"	f
+draw_line_white	teris.c	/^void draw_line_white(int flag)$/;"	f
+draw_os1_1h_element	teris.c	/^void draw_os1_1h_element(int x, int y, int r, int g, int b)$/;"	f
+draw_os1_2y_arr	teris.c	/^static void draw_os1_2y_arr(void) \/\/ 2y $/;"	f	file:
+draw_os1_2y_element	teris.c	/^void draw_os1_2y_element(int x, int y, int r, int g, int b)$/;"	f
+draw_os1_3h_element	teris.c	/^void draw_os1_3h_element(int x, int y, int r, int g, int b)$/;"	f
+draw_os1_h_arr	teris.c	/^static void draw_os1_h_arr(void) \/\/ 1h 2h were called ...$/;"	f	file:
+draw_os1_line	teris.c	/^void draw_os1_line(int c)$/;"	f
+draw_os3_digtal_arr	teris.c	/^static void draw_os3_digtal_arr(int num) \/\/ 2y $/;"	f	file:
+draw_os3_digtal_arr_right	teris.c	/^static void draw_os3_digtal_arr_right(int num) \/\/ 2y $/;"	f	file:
+draw_os3_digtal_element	teris.c	/^void draw_os3_digtal_element(int x, int y, int r, int g, int b)$/;"	f
+draw_os3_digtal_right_element	teris.c	/^void draw_os3_digtal_right_element(int x, int y, int r, int g, int b)$/;"	f
+draw_os_line	teris.c	/^void draw_os_line(int c)$/;"	f
+draw_point	lcd.c	/^void draw_point(int x, int y, int r, int g, int b)$/;"	f
+draw_point_char	lcd.c	/^void draw_point_char(int x, int y, int col)$/;"	f
+draw_screen_white	teris.c	/^void draw_screen_white(int flag)$/;"	f
+draw_shape	teris.c	/^void draw_shape(int s[M][N], int x, int y, int r, int g, int b)$/;"	f
+drop_move	teris.c	/^void drop_move(int shape[M][N], int x, int y)$/;"	f
+end_bss_add	start.S	/^end_bss_add:$/;"	l
+enter_app	cmd.c	/^void enter_app(void)$/;"	f
+find_cmd_exec	cmd.c	/^void  find_cmd_exec(char *buf)$/;"	f
+flag	irq.c	/^u32 flag = 0;$/;"	v
+flip_hor	rotator.c	/^void flip_hor(void)$/;"	f
+flip_ver	rotator.c	/^void flip_ver(void)$/;"	f
+fontdata10x18	include/font10_18.h	/^const unsigned char fontdata10x18[FONTDATAMAX] = {$/;"	v
+fontdata_sun12x22	include/font12_22.h	/^const unsigned char fontdata_sun12x22[FONTMAX] = {$/;"	v
+for_clr	start.S	/^	for_clr:$/;"	l
+game_over_bg	teris.c	/^static  void game_over_bg(void)$/;"	f	file:
+game_start_bg	teris.c	/^static  void game_start_bg(void)$/;"	f	file:
+get_random_val	common.c	/^int (*get_random_val)(void) = (void *)0x43e1fe54;\/\/get_random_val$/;"	v
+get_timer	rtc_irq.c	/^unsigned long get_timer(void)$/;"	f
+gpio_init	lcd.c	/^static void gpio_init(void)$/;"	f	file:
+help	include/command.h	/^	char *help;$/;"	m	struct:__anon1
+i2c_delay	iic.c	/^void i2c_delay(int val)$/;"	f
+iic1_gpio_init	iic.c	/^void iic1_gpio_init(void)$/;"	f
+iic1_init	iic.c	/^void iic1_init(int addr)$/;"	f
+init_board	main.c	/^void init_board(void)$/;"	f
+init_shape	teris.c	/^void init_shape(int n) $/;"	f
+init_ttb	mmu.c	/^static void init_ttb(u32 *ttb)$/;"	f	file:
+io_bit_count	backlight.c	/^static int io_bit_count;$/;"	v	file:
+io_data	backlight.c	/^static int io_data;$/;"	v	file:
+irq	start.S	/^irq:$/;"	l
+irq_	start.S	/^irq_:$/;"	l
+irq_init	main.c	/^void irq_init(void)$/;"	f
+irq_request_cpu0	irq.c	/^void irq_request_cpu0(int num, void (*do_isr)(void), int pri)$/;"	f
+is_canmov	teris.c	/^int is_canmov(int s[M][N], int x, int y)$/;"	f
+is_game_over	teris.c	/^static int is_game_over(void)$/;"	f	file:
+isr_t	include/irq.h	/^typedef void (*isr_t)(void);$/;"	t
+isrs	irq.c	/^isr_t isrs[TOT] = {NULL};$/;"	v
+itoa	uart.c	/^void itoa(u32 num, char *buf)$/;"	f
+key_control	teris.c	/^void key_control(int shape[M][N],int x,int y, int key_cnt)$/;"	f
+key_id	key.c	/^int key_id(void) $/;"	f
+key_init	key.c	/^void key_init(void)$/;"	f
+key_read	key.c	/^int key_read(void)$/;"	f
+last1	teris.c	/^static unsigned long last1  = 0;$/;"	v	file:
+last_score	teris.c	/^static unsigned long last_score = 0;$/;"	v	file:
+lcd_clksrc_set	lcd.c	/^static void lcd_clksrc_set(void)$/;"	f	file:
+lcd_display_help	shell_info.c	/^void lcd_display_help(void)$/;"	f
+lcd_init	lcd.c	/^void lcd_init(void)$/;"	f
+lcd_welcom_login	shell_info.c	/^void lcd_welcom_login(void)$/;"	f
+main	main.c	/^main(void)$/;"	f
+memcpy	common.c	/^void *memcpy(void *__dest, __const void *__src, int  __n)$/;"	f
+memset	common.c	/^void *memset(void *s, int c, int count)$/;"	f
+mmu_enable	mmu.c	/^static void mmu_enable(u32 *ttb)$/;"	f	file:
+mode	rotator.c	/^static int mode  = 0;$/;"	v	file:
+mov_up2bot	teris.c	/^void mov_up2bot(int j)$/;"	f
+my_alpha	alpha.c	/^void my_alpha(void)$/;"	f
+my_mdelay	common.c	/^int  my_mdelay(int n) $/;"	f
+my_pic20	pic20.c	/^void my_pic20(void)$/;"	f
+my_ppt	myppt.c	/^void my_ppt(void)$/;"	f
+my_rotator	rotator.c	/^void my_rotator(void)$/;"	f
+my_teris	teris.c	/^my_teris( void )$/;"	f
+mymemcpy	common.c	/^void *mymemcpy(void *dest, const void *src, u32 n)$/;"	f
+mystrcpy	common.c	/^char *mystrcpy(char *dst, const char *src)$/;"	f
+name	include/command.h	/^	char *name;$/;"	m	struct:__anon1
+next_shape	teris.c	/^static unsigned long next_shape = 0;$/;"	v	file:
+num_pos	rotator.c	/^static int num_pos = 0;$/;"	v	file:
+os3_digtal	teris.c	/^static int os3_digtal[11][D_HC_Y][D_WC_X] = {$/;"	v	file:
+os_1_h	teris.c	/^static int os_1_h[N_HC][N_WC] = {$/;"	v	file:
+os_2_y	teris.c	/^static int os_2_y[N_HC_Y][N_WC_Y] = {$/;"	v	file:
+picture_menu	pic20.c	/^void picture_menu(void)$/;"	f
+printf	common.c	/^int (*printf)(const char *, ...) = (void *)0x43e11434; $/;"	v
+rand_arr	teris.c	/^static int rand_arr[NUM] = {$/;"	v	file:
+rate	teris.c	/^static unsigned long rate  = 0;$/;"	v	file:
+read_data	iic.c	/^int read_data(char *data, int len)$/;"	f
+reset	start.S	/^reset:$/;"	l
+reset_	start.S	/^reset_:$/;"	l
+resume_iic_scl	iic.c	/^void resume_iic_scl(void)$/;"	f
+rotator	rotator.c	/^void  rotator(int rote)$/;"	f
+rotator_src_image	rotator.c	/^void rotator_src_image(int num)$/;"	f
+rotator_src_image_deal_270	rotator.c	/^void rotator_src_image_deal_270(int num)$/;"	f
+rotator_src_image_deal_90	rotator.c	/^void rotator_src_image_deal_90(int num)$/;"	f
+rtc_interrupt_init	rtc_irq.c	/^void rtc_interrupt_init(void)$/;"	f
+schdule_w0	schdule.c	/^void schdule_w0(void)$/;"	f
+schdule_w1_alpha	schdule.c	/^void schdule_w1_alpha(void)$/;"	f
+schdule_w1_pic20	schdule.c	/^void schdule_w1_pic20(void)$/;"	f
+schdule_w1_pic20_display	schdule.c	/^void schdule_w1_pic20_display(void)$/;"	f
+schdule_w1_rotator	schdule.c	/^void schdule_w1_rotator(void)$/;"	f
+schdule_w1_rotator_del	schdule.c	/^void schdule_w1_rotator_del(void)$/;"	f
+schdule_w1_rotator_menu	schdule.c	/^void schdule_w1_rotator_menu(void)$/;"	f
+schdule_w1_ui	schdule.c	/^void schdule_w1_ui(void)$/;"	f
+sd_to_mem	sd_to_mem.c	/^void sd_to_mem(void)$/;"	f
+sdelay	common.c	/^int (*sdelay)(int ) = (void *)0x43e04ddc;      $/;"	v
+section_map	mmu.c	/^static void section_map(u32 *ttb, u32 va_start, u32 va_end, u32 pa)$/;"	f	file:
+set_backlight_start	backlight.c	/^void set_backlight_start(int backlight)$/;"	f
+set_bg	teris.c	/^void set_bg(int s[M][N], int x, int y) $/;"	f
+set_gpx1_2_high	backlight.c	/^void set_gpx1_2_high(void)$/;"	f
+set_gpx1_2_low	backlight.c	/^void set_gpx1_2_low(void)$/;"	f
+sh_cmd1	cmd.c	/^void sh_cmd1(void)$/;"	f
+sh_cmd2	cmd.c	/^void sh_cmd2(void)$/;"	f
+sh_cmd3	cmd.c	/^void sh_cmd3(void)$/;"	f
+sh_cmd4	cmd.c	/^void sh_cmd4(void)$/;"	f
+sh_cmd5	cmd.c	/^void sh_cmd5(void)$/;"	f
+sh_cmd6	cmd.c	/^void sh_cmd6(void)$/;"	f
+shape	teris.c	/^int shape[M][N] = {$/;"	v
+shape_1	teris.c	/^int shape_1[M][N] = {$/;"	v
+shape_2	teris.c	/^int shape_2[M][N] = {$/;"	v
+shape_3	teris.c	/^int shape_3[M][N] = {$/;"	v
+shape_4	teris.c	/^int shape_4[M][N] = {$/;"	v
+shape_5	teris.c	/^int shape_5[M][N] = {$/;"	v
+shape_6	teris.c	/^int shape_6[M][N] = {$/;"	v
+shape_windmill	teris.c	/^int shape_windmill[M][N] = {$/;"	v
+shell	shell.c	/^shell(void)$/;"	f
+size_t	include/common.h	/^typedef long unsigned int size_t;$/;"	t
+start_bss_add	start.S	/^start_bss_add:$/;"	l
+start_rotat	rotator.c	/^void start_rotat(void)$/;"	f
+state	isr.c	/^int state = 0;$/;"	v
+stop_timer1	pwm.c	/^void stop_timer1(void)$/;"	f
+strcmp	common.c	/^int strcmp(char *cs, const char *ct)$/;"	f
+strlen	common.c	/^size_t strlen(const char *s)$/;"	f
+svc	start.S	/^svc:$/;"	l
+svc_	start.S	/^svc_:$/;"	l
+tik	rtc_irq.c	/^int tik = 0;$/;"	v
+timer1_init	pwm.c	/^void timer1_init(int cycle)$/;"	f
+tp_int_init	tp.c	/^void tp_int_init(void)$/;"	f
+ts	isr.c	/^int ts[5][2]= {$/;"	v
+turn_90	teris.c	/^void turn_90(int s[M][N])$/;"	f
+u16	include/common.h	/^typedef volatile unsigned short u16;$/;"	t
+u32	include/common.h	/^typedef volatile unsigned int   u32;$/;"	t
+u32_t	include/common.h	/^typedef volatile unsigned int 	u32_t;$/;"	t
+u8	include/common.h	/^typedef volatile unsigned char  u8;$/;"	t
+uart0	uart.c	/^uart_t *uart0 = (void *)0x13800000;$/;"	v
+uart_display_help	shell_info.c	/^void uart_display_help(void)$/;"	f
+uart_init	uart.c	/^void uart_init(void)$/;"	f
+uart_t	include/uart.h	/^}uart_t;$/;"	t	typeref:struct:__anon2
+uart_welcom_login	shell_info.c	/^void uart_welcom_login(void)$/;"	f
+udelay	common.c	/^int (*udelay)(int ) = (void *)0x43e25e88;$/;"	v
+ugetchar	uart.c	/^int ugetchar(void)$/;"	f
+ugets	uart.c	/^char *ugets(char *buf)$/;"	f
+ui	ui.c	/^void ui(void)$/;"	f
+unde	start.S	/^unde:$/;"	l
+unde_	start.S	/^unde_:$/;"	l
+uprintf	uart.c	/^int uprintf(const char *fmt, ...)$/;"	f
+uputchar	uart.c	/^void uputchar(int c)$/;"	f
+uputs	uart.c	/^void uputs(char *buf)$/;"	f
+uputs_	uart.c	/^void uputs_(char *buf)$/;"	f
+uva_arg	include/uart.h	28;"	d
+uva_end	include/uart.h	32;"	d
+uva_list	include/uart.h	/^typedef char *uva_list; $/;"	t
+uva_start	include/uart.h	27;"	d
+va_arg	include/stdarg.h	23;"	d
+va_copy	include/stdarg.h	25;"	d
+va_end	include/stdarg.h	22;"	d
+va_list	include/stdarg.h	/^typedef __gnuc_va_list va_list;$/;"	t
+va_start	include/stdarg.h	21;"	d
+vec_end	start.S	/^vec_end:$/;"	l
+vec_start	start.S	/^vec_start:$/;"	l
+wait_timeout	backlight.c	/^void wait_timeout(void)$/;"	f
+wait_until_iic_irq	iic.c	/^int wait_until_iic_irq(void)$/;"	f
+win0_init	lcd.c	/^static void win0_init(void)$/;"	f	file:
+win1_init	lcd.c	/^static void win1_init(void)$/;"	f	file:
+write_string	lcd.c	/^void write_string(char *str,int i, int j)$/;"	f
+write_string	lcd_note.c	/^void write_string(char *str,int i, int j)$/;"	f
+write_word	lcd_note.c	/^write_word(unsigned char c)$/;"	f
+write_word_pos	lcd.c	/^void write_word_pos(unsigned char c, int pos_x, int pos_y)$/;"	f
+write_word_pos	lcd_note.c	/^void write_word_pos(unsigned char c, int *pos_x, int *pos_y)$/;"	f
+xtoa	uart.c	/^void xtoa(u32 num, char *buf)$/;"	f
